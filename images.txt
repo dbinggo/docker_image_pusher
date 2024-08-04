@@ -6,6 +6,8 @@ bitnami/kafka:3.7
 bitnami/jaeger:1
 bitnami/elasticsearch:8
 bitnami/kibana:8
+bitnami/logstash:8
+
 
 
 # nginx
