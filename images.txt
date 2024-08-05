@@ -1,3 +1,4 @@
+rancher/mirrored-pause:3.6
 bitnami/logstash:8
 bitnami/mysql:8.0
 bitnami/redis:7.0
