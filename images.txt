@@ -1,3 +1,4 @@
+mysql:8.0.0
 domjudge/judgehost:latest
 rancher/local-path-provisioner:v0.0.28
 rancher/klipper-helm:v0.8.4-build20240523
