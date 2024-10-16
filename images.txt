@@ -1,3 +1,4 @@
+registry.cn-guangzhou.aliyuncs.com/dbinggo-docker/minio:2024.10.13
 bitnami/minio:2024.10.13 
 mysql:8.0.0
 domjudge/judgehost:latest
