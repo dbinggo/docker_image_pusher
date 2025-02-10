@@ -1,5 +1,5 @@
---platform=linux/arm64,linux/amd64 docker.io/library/alpine:latest 
---platform=linux/arm64,linux/amd64 docker.io/library/golang:1.23-alpine
+--platform=linux/amd64 docker.io/library/alpine:latest 
+--platform=linux/amd64 docker.io/library/golang:1.23-alpine
 
 #registry.cn-guangzhou.aliyuncs.com/dbinggo-docker/minio:2024.10.13
 
