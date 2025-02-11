@@ -1,3 +1,4 @@
+nginx
 --platform=linux/amd64 docker.io/library/alpine:latest 
 --platform=linux/amd64 docker.io/library/golang:1.23-alpine
 containrrr/watchtower:latest
